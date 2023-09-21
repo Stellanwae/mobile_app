@@ -1,0 +1,12 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #283618;
+    background: #ECEBE4;
+    text-align: center;
+    font-size: 32px;
+}
+
+li {
+    background: #283618;
+    color: #ECEBE4;
+}
